@@ -5,8 +5,7 @@
   "main": "lib/parser.js",
   "scripts": {
     "test": "scripts/test",
-    "prepublish": "scripts/prepublish",
-    "install": "scripts/prepublish"
+    "prepublish": "scripts/prepublish"
   },
   "repository": {
     "type": "git",
